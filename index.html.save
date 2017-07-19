@@ -21,7 +21,8 @@
 						<a href="https://github.com/rotovegas" >GitHub</a>
 						<a href="/python" >python</a>
 						<a href="/linux" >Linux</a>
-						<a href="#" onclick="jQuery.ajax('/btn')" >Email him</a>
+						<a href="#" onclick="jQuery.ajax('/btn')" > Email him
+</a>
 					</div>
 				<!---</nav>--->
 			</div>
